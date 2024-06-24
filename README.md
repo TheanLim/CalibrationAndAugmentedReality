@@ -23,12 +23,11 @@ I can even rotate the ArUco marks; the images will be rotated accordingly!
 <img src="/images/ArucoOverlayRotated.png" width="300" height="200">
 
 ### Overlaying Videos on ArUco marks
-Please find a screen recording here: https://drive.google.com/file/d/1Jw_fpgG_UMm4sRolrb11tb1F5-4cMZAq/view?usp=sharing 
+Please find a screen recording here: https://drive.google.com/file/d/1ZGoQKcxPYRRTgvMnKS7Re-LlHhK_q9xV/view?usp=drive_link 
 
 ## Instructions
-Run `augmentedReality.cpp`
-You must also include a directory named "assets", where you keep several images and mp4 video clips. These will be overlaid onto ArUco markers. Download this folder from https://drive.google.com/drive/folders/18wfNYKXNvqpsX728QG43EM0cFL6ZNF04?usp=sharing  
-In addition, you should start by calibrating your camera with a [chessboard](/markers/Chessboard.pdf). This can be done by pressing "d", and then "s" at least 5 times (each from diff angle of the chessboard).
+Run `augmentedReality.cpp`  
+You should start by calibrating your camera with a [chessboard](/markers/Chessboard.pdf). This can be done by pressing "d", and then "s" at least 5 times (each from diff angle of the chessboard).
 
 Some useful hotkeys:
 - n = Do nothing/ reset the camera frames
